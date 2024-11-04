@@ -1,3 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-
-Console.WriteLine("Cartof");
+Console.WriteLine("Schimbare din Github");
