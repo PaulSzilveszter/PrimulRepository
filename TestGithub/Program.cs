@@ -1,1 +1,1 @@
-Console.WriteLine("Schimbare din Github");
+Console.WriteLine("Schimbare din VS 2022");
